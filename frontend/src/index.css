@@ -1,0 +1,33 @@
+@font-face {
+  font-family: Poiret One;
+  src: url(./assets/fonts/PoiretOne/PoiretOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: Neue Machina;
+  src: url(./assets/fonts/NeueMachina/PPNeueMachina-PlainRegular.otf);
+}
+
+@font-face {
+  font-family: Juana;
+  src: url(./assets/fonts/Juana/Demo_Fonts/Fontspring-DEMO-juana-thinit.otf);
+}
+
+@font-face {
+  font-family: Gilroy;
+  src: url(./assets/fonts/Gilroy/Gilroy-Regular.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #0c0c0c;
+}
